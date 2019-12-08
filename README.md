@@ -4,7 +4,7 @@ This repository contains the assignments done as a part of the Reinforcement Lea
 You can view the course by clicking on [this link](https://www.coursera.org/specializations/reinforcement-learning).
 
 This repo consists of the following implementations:
-1. K-Armed Bandits
+1. [K-Armed Bandits](Fundamentals%20of%20Reinforcement%20Learning/Week%201/Bandits-Assignment1.ipynb)
 2. Dynamic Programming for Policy Iteration and Update
 
 References:
