@@ -1,9 +1,7 @@
 # Sampling based Learning Methods
 
 This contains the code for the following algorithms:
-1. Monte Carlo Methods - Blackjack
-2. Temporal Difference Learning
-3. Q-Learning and SARSA
-4. Planning
-
-For now this path consists of just the unfilled code. The solutions will be updated soon.
+1. [Monte Carlo Methods - Blackjack](https://github.com/adithyaprem/Reinforcement-Learning-Specialization/tree/master/Sample-based%20Learning%20Methods/Week%202)
+2. [Temporal Difference Learning](https://github.com/adithyaprem/Reinforcement-Learning-Specialization/tree/master/Sample-based%20Learning%20Methods/Week%203)
+3. [Q-Learning,SARSA and Expected SARSA](https://github.com/adithyaprem/Reinforcement-Learning-Specialization/tree/master/Sample-based%20Learning%20Methods/Week%204)
+4. [Planning using Dyna Algorithm](https://github.com/adithyaprem/Reinforcement-Learning-Specialization/tree/master/Sample-based%20Learning%20Methods/Week%205)
