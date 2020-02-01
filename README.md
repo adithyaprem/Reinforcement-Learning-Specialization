@@ -18,3 +18,4 @@ References:
 2. [Lectures by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 3. [Advanced Deep Learning and Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 4. [List of RL algorithms and their implementations](https://github.com/dennybritz/reinforcement-learning)
+5. [Stanford CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
