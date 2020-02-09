@@ -11,6 +11,7 @@ This repo consists of the following implementations:
 5. [Dyna-Q and Dyna-Q+](Sample-based%20Learning%20Methods/Week%205)
 6. [TD with State Aggregation](Prediction%20and%20Control%20with%20Function%20Approximation/Week%201)
 7. [Semi-Gradient TD](Prediction%20and%20Control%20with%20Function%20Approximation/Week%202)
+8. [Function Approximation and Control using Tile Coding-SARSA](Prediction%20and%20Control%20with%20Function%20Approximation/Week%203)
 
 
 References:
