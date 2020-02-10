@@ -12,6 +12,7 @@ This repo consists of the following implementations:
 6. [TD with State Aggregation](Prediction%20and%20Control%20with%20Function%20Approximation/Week%201)
 7. [Semi-Gradient TD](Prediction%20and%20Control%20with%20Function%20Approximation/Week%202)
 8. [Function Approximation and Control using Tile Coding-SARSA](Prediction%20and%20Control%20with%20Function%20Approximation/Week%203)
+9. [Actor-Critic using TD(0)](Prediction%20and%20Control%20with%20Function%20Approximation/Week%204)
 
 
 References:
